@@ -1,0 +1,38 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+li{
+    list-style-type: none;
+}
+.title-row p{
+    font-size: 14px;
+}
+.underline{
+    height: 4px;
+}
+
+.price-title{
+    background-color: #f8f8f8;
+}
+.price-btn{
+    background-color: #f8f8f8;
+
+}
+.price-btn a{
+    background-color: #f8f8f8;
+}
+.price-btn a:hover{
+    background-color: #fff;
+}
+.ultimate-card{
+    position:relative;
+    overflow: hidden;
+}
+.ad{
+    position: absolute;
+    top: 4%;
+    right: -15%;
+    transform: rotate(45deg);
+}
